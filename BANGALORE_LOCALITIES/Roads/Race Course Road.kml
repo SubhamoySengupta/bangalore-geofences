@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Race Course Road</name>
+		<Placemark>
+			<styleUrl>#line-4186F0-5</styleUrl>
+			<name>Line 1</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>77.5771022,12.9831373,0.0 77.5775313,12.9835868,0.0 77.5785506,12.9839109,0.0 77.5791621,12.9839318,0.0 77.5809968,12.9836914,0.0 77.5813293,12.9837854,0.0 77.5822413,12.984235,0.0 77.5828528,12.9843814,0.0 77.5833786,12.9842559,0.0 77.5838506,12.9840468,0.0 77.5844407,12.9837854,0.0 77.5850844,12.9836704,0.0 77.585696,12.9837018,0.0 77.5862646,12.9838377,0.0 77.587713,12.9842454,0.0 77.5879276,12.9843395,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='line-4186F0-5'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>

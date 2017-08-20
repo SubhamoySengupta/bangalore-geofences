@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Nagawara</name>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>Polygon 1</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>77.6196635,13.0409547,0.0 77.6195776,13.0401186,0.0 77.6183546,13.036084,0.0 77.6177859,13.0335232,0.0 77.6219058,13.0322271,0.0 77.6263261,13.030701,0.0 77.6269698,13.032927399999998,0.0 77.6275492,13.036293,0.0 77.6271844,13.0369515,0.0 77.6259398,13.037745900000003,0.0 77.6246738,13.039533200000001,0.0 77.6240408,13.0403276,0.0 77.6235902,13.0408189,0.0 77.6230216,13.041048800000002,0.0 77.6226139,13.0410697,0.0 77.6216376,13.0409338,0.0 77.6196635,13.0409547,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-DB4436-1-76'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C3644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+	</Document>
+</kml>

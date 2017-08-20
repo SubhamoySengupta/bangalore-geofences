@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Commercial St</name>
+		<Placemark>
+			<styleUrl>#line-3F5BA9-4</styleUrl>
+			<name>Commercial St</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>77.6062363,12.9828654,0.0 77.608366,12.9821754,0.0 77.6089776,12.9819454,0.0 77.610324,12.981522,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='line-3F5BA9-4'>
+			<LineStyle>
+				<color>ffA95B3F</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Cunnigham Road</name>
+		<Placemark>
+			<styleUrl>#line-4186F0-3</styleUrl>
+			<name>Cunnigham Road</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>77.5856423,12.9911976,0.0 77.5862432,12.9909676,0.0 77.5866294,12.990884,0.0 77.5875092,12.9907794,0.0 77.5886035,12.9905076,0.0 77.58905410000001,12.9903194,0.0 77.5898266,12.9903613,0.0 77.5917363,12.9904867,0.0 77.5927448,12.9897549,0.0 77.5935388,12.9888349,0.0 77.5940108,12.9882913,0.0 77.59444,12.987685,0.0 77.5952554,12.986535,0.0 77.5962424,12.9854268,0.0 77.5971866,12.9844441,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='line-4186F0-3'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>

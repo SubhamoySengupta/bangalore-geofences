@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>New BEL Rd</name>
+		<Placemark>
+			<styleUrl>#line-3F5BA9-4</styleUrl>
+			<name>New BEL Rd</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>77.5610518,13.0436514,0.0 77.5619531,13.0421254,0.0 77.5648284,13.0383626,0.0 77.5684977,13.0341189,0.0 77.5698924,13.0321539,0.0 77.5718021,13.0268231,0.0 77.5728106,13.0147394,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='line-3F5BA9-4'>
+			<LineStyle>
+				<color>ffA95B3F</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>

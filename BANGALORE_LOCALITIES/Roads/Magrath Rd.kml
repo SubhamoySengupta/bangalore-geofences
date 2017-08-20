@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Magrath Rd</name>
+		<Placemark>
+			<styleUrl>#line-3F5BA9-6</styleUrl>
+			<name>Magrath Rd</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>77.6062685,12.9715167,0.0 77.606982,12.9714331,0.0 77.607159,12.9713965,0.0 77.6082373,12.9710358,0.0 77.6095784,12.9705862,0.0 77.6103616,12.9703249,0.0 77.6107371,12.9701785,0.0 77.6119334,12.9697446,0.0 77.6121157,12.9696087,0.0 77.6126361,12.9691068,0.0 77.6128078,12.9689866,0.0 77.6132315,12.9687984,0.0 77.61365,12.9686311,0.0 77.6141864,12.9684848,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='line-3F5BA9-6'>
+			<LineStyle>
+				<color>ffA95B3F</color>
+				<width>6</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>

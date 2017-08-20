@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Church St</name>
+		<Placemark>
+			<styleUrl>#line-3F5BA9-4</styleUrl>
+			<name>Church St</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>77.6009578,12.9765194,0.0 77.6010275,12.976394,0.0 77.6016122,12.9758033,0.0 77.6026261,12.9755262,0.0 77.60345220000002,12.9753433,0.0 77.6043051,12.9751551,0.0 77.6049167,12.974993,0.0 77.6052922,12.9749198,0.0 77.6065904,12.974601,0.0 77.6077384,12.9742978,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='line-3F5BA9-4'>
+			<LineStyle>
+				<color>ffA95B3F</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>

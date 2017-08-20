@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Brigade Rd</name>
+		<Placemark>
+			<styleUrl>#line-3F5BA9-4</styleUrl>
+			<name>Brigade Rd</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>77.6079476,12.974993,0.0 77.6076525,12.9740312,0.0 77.6074702,12.9735241,0.0 77.6071966,12.9727348,0.0 77.6071,12.9724681,0.0 77.6070464,12.9721859,0.0 77.6070249,12.9719088,0.0 77.60701420000001,12.971407,0.0 77.6067513,12.9704921,0.0 77.606585,12.9700217,0.0 77.6065314,12.9697028,0.0 77.6063812,12.9693003,0.0 77.6062632,12.9689239,0.0 77.6061934,12.9685684,0.0 77.6062095,12.9683854,0.0 77.6062417,12.9681763,0.0 77.6064616,12.967669200000001,0.0 77.6066387,12.9670367,0.0 77.6068479,12.9662839,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='line-3F5BA9-4'>
+			<LineStyle>
+				<color>ffA95B3F</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>

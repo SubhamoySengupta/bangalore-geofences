@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>MG Road</name>
+		<Placemark>
+			<styleUrl>#line-3F5BA9-8</styleUrl>
+			<name>MG Road</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>77.5994182,12.9766553,0.0 77.6018107,12.976571700000001,0.0 77.6037312,12.9761221,0.0 77.6060379,12.9755471,0.0 77.60740040000002,12.9752335,0.0 77.6110804,12.9743762,0.0 77.6144814,12.9735816,0.0 77.6180434,12.9727348,0.0 77.6191485,12.9725466,0.0 77.619803,12.972640700000001,0.0 77.6199961,12.972787,0.0 77.6203501,12.972787,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='line-3F5BA9-8'>
+			<LineStyle>
+				<color>ffA95B3F</color>
+				<width>8</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>

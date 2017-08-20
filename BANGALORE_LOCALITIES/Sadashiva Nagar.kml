@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Sadashiva Nagar</name>
+		<Placemark>
+			<styleUrl>#poly-DB4436-1-76</styleUrl>
+			<name>Polygon 1</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>77.5756806,13.009397700000001,0.0 77.5757825,13.0091939,0.0 77.5760829,13.0088855,0.0 77.5763029,13.008613700000002,0.0 77.5767213,13.008263500000002,0.0 77.5775152,13.0078715,0.0 77.5782233,13.0074691,0.0 77.5784701,13.0072652,0.0 77.5787544,13.006883700000001,0.0 77.5789261,13.006638,0.0 77.5788027,13.0063871,0.0 77.5834966,13.0036535,0.0 77.5837755,13.0033556,0.0 77.5841564,13.0027022,0.0 77.5838399,13.0090162,0.0 77.5812274,13.0091103,0.0 77.5795162,13.0091991,0.0 77.5787973,13.009251400000002,0.0 77.5787812,13.0103333,0.0 77.5780195,13.0103856,0.0 77.5780356,13.009272300000001,0.0 77.5756806,13.009397700000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-DB4436-1-76'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C3644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+	</Document>
+</kml>
